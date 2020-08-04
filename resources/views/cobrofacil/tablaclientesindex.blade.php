@@ -254,7 +254,7 @@ function vclientes(val)
 
  <!-- BUTTONS   -->
     <center>
-         <button onclick="location.href='{{ url('Home') }}'" type="button" class="btn btn-default btn-lg" style="width:9%"><b>Design</b></button>&nbsp;&nbsp;
+         <button onclick="location.href='{{ url('home') }}'" type="button" class="btn btn-default btn-lg" style="width:15%">Home</button>&nbsp;&nbsp;
 
       
     </center>
